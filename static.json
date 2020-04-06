@@ -1,3 +1,4 @@
 {
+  "root": "build/",
   "basic_auth": true
 }
