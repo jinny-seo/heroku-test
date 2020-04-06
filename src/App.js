@@ -8,8 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          whattt
-          testing commits to git and heroku at the same time
+          whattt testing commits to git and heroku at the same time
         </p>
         <a
           className="App-link"
@@ -17,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-
+          dsfdasdfsdkflj
         </a>
       </header>
     </div>
