@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://seo-heroku-test.herokuapp.com/",
   "eslintConfig": {
     "extends": "react-app"
   },
