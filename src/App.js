@@ -7,17 +7,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          whattt testing commits to git and heroku at the same time
-        </p>
+        <p>redo</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          dsfdasdfsdkflj
-        </a>
+        ></a>
       </header>
     </div>
   );
